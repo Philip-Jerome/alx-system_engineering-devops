@@ -1,2 +1,3 @@
 #!/bin/bash
-pwd
+if pwd= current working directory
+print current working directory  
